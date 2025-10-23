@@ -1,4 +1,4 @@
-# Applications of Linear Algebra — Faculty Development Program
+# Applications of Linear Algebra
 
 This repository contains instructional Jupyter notebooks developed as part of a **Faculty Development Program (FDP)** aimed at helping undergraduate educators connect **Linear Algebra concepts to real-world applications** in data science, machine learning, NLP, and image processing.
 
